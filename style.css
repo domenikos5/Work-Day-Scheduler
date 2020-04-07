@@ -2,7 +2,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   line-height: 1;
-  background-color: rgb(184, 213, 247);
+  background-color: rgb(143, 172, 206);
 }
 
 textarea{
@@ -44,18 +44,18 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
-  color: white;
+  background-color: #7e6557;
+  color: whitesmoke;
 }
 
 .present {
-  background-color: #ff6961;
-  color: white;
+  background-color: #286cb9;
+  color: whitesmoke;
 }
 
 .future {
-  background-color: #77dd77;
-  color: white;
+  background-color: #2a572d;
+  color: whitesmoke;
 }
 
 .saveBtn {
@@ -67,7 +67,7 @@ textarea{
 }
 
 .hover {
-  background-color: rgb(76, 119, 76);
+  background-color: rgb(60, 96, 121);
 }
 
 .save-icon {
