@@ -7,7 +7,7 @@ var saveBtn = $(".saveBtn");
 
 
 // set data attributes to each hour input element
-// later, we will change the class on that element based on whether the represented time is > or < the current time.
+
 $("#9Row").attr("data-time", moment("9:00 am", "h:mm a").format("HH"));
 $("#10Row").attr("data-time", moment("10:00 am", "h:mm a").format("HH"));
 $("#11Row").attr("data-time", moment("11:00 am", "h:mm a").format("HH"));
