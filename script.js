@@ -1,5 +1,3 @@
-//  DEFINE VARIABLES
-// HH format for a 24hr clock
 var currentTime = moment().format("HH");
 
 var currentTimeInt = parseInt(currentTime);
